@@ -1,5 +1,5 @@
 {
-    "name": "skrepr/zf1wrapperbundle",
+    "name": "sohrabg/zf1wrapperbundle",
     "description": "Symfony 2 bundle for wrapping a Zend Framework 1 legacy application",
     "license": "MIT",
     "type": "symfony-bundle",
