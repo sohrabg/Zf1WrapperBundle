@@ -9,7 +9,7 @@
             "email": "othillo@othillo.nl"
         }
     ],
-    "minimum-stability": "alpha",
+    "minimum-stability": "stable",
     "require": {
         "php": ">=5.3.3"
     },
